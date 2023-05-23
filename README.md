@@ -14,7 +14,10 @@ node index.js
 ```
 
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
-![Uplo![Screenshot 2023-05-23 162048](https://github.com/momofastorm/README-generator/assets/127702972/0f71ce5c-d44f-4087-8d79-4fa5ba7ea84d)
+
+
+
+(https://github.com/momofastorm/README-generator/assets/127702972/0f71ce5c-d44f-4087-8d79-4fa5ba7ea84d)
 ading image.png…]()
 
 
