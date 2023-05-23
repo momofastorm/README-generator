@@ -5,7 +5,8 @@ function generateMarkdown(data) {
 
   let output = `
 # ${data.title}
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+${data.license == 'none' ? '' : `![badmath](https://img.shields.io/badge/License-${data.license}-pink)`}
 
 ## Description
 
