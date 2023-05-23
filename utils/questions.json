@@ -1,0 +1,48 @@
+[
+    {
+        "type": "input",
+        "name": "title",
+        "message": "Project title?"
+    },
+    {
+        "type": "input",
+        "name": "description",
+        "message": "Project description?"
+    },
+    {
+        "type": "input",
+        "name": "usage",
+        "message": "Project usage"
+    },
+    {
+        "type": "input",
+        "name": "tests",
+        "message": "What tests are required?"
+    },
+    {
+        "type": "input",
+        "name": "installation",
+        "message": "Installation instructions?"
+    },
+    {
+        "type": "input",
+        "name": "author",
+        "message": "Project author(s)?"
+    },
+    {
+        "type": "list",
+        "name": "license",
+        "message": "What licesnse does the application have?",
+        "choices": ["MIT", "BSC", "Apache", "none"]
+    },
+    {
+        "type": "input",
+        "name": "github",
+        "message": "What is your github username?"
+    },
+    {
+        "type": "input",
+        "name": "email",
+        "message": "What is your email address?"
+    }
+]

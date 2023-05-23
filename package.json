@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "This README generator is a command-line application that helps developers quickly create a professional README for a new project. The acceptance criteria for the project specify that the application should prompt the user for information about their project and generate a README file with sections for Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions. The application should also generate a badge for the chosen license and provide a link to the user's GitHub profile and contact information. ## Your Task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momofastorm/README-generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/momofastorm/README-generator/issues"
+  },
+  "homepage": "https://github.com/momofastorm/README-generator#readme"
 }
