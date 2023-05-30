@@ -1,4 +1,7 @@
 This README generator is a command-line application that helps developers quickly create a professional README for a new project. The acceptance criteria for the project specify that the application should prompt the user for information about their project and generate a README file with sections for Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions. The application should also generate a badge for the chosen license and provide a link to the user's GitHub profile and contact information.
+![Screenshot 2023-05-23 162048](https://github.com/momofastorm/README-generator/assets/127702972/29bc1e6c-644f-40e1-8e75-e9aa9dc25d87)
+
+
 ## Your Task
 
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
